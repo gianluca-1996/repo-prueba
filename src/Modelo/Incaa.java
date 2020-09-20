@@ -73,7 +73,10 @@ public class Incaa {
 		return pelicula;
 	}
 	
-	
+	public void nuevaFuncion()
+	{
+		
+	}
 	
 }
 
