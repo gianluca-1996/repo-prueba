@@ -73,24 +73,7 @@ public class Incaa {
 		return pelicula;
 	}
 	
-	public void traerIncaa()
-	{
-		//cuerpo del metodo.
-	}
 	
-	public void nuevaFuncion()
-	{
-	}
-	
-
-	public void nuevoMetodo()
-	{
-		
-	}
-	public void nuevaFuncion2()
-	{
-		
-	}
 	
 }
 
