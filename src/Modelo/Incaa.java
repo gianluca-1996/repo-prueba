@@ -82,7 +82,12 @@ public class Incaa {
 	{
 	}
 	
+
 	public void nuevoMetodo()
+	{
+		
+	}
+	public void nuevaFuncion2()
 	{
 		
 	}
