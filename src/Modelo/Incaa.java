@@ -74,14 +74,7 @@ public class Incaa {
 	}
 	
 
-	public void nuevaFuncion()
-	{
-		
-	}
-
-	public void metodo()
-	{
-	}
+	
 	
 	
 }
