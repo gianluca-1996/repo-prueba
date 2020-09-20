@@ -78,7 +78,9 @@ public class Incaa {
 		//cuerpo del metodo.
 	}
 	
-	
+	public void nuevaFuncion()
+	{
+	}
 	
 }
 
