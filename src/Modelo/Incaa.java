@@ -78,10 +78,7 @@ public class Incaa {
 		//cuerpo del metodo.
 	}
 	
-	public void nuevoMetodo()
-	{
-		int a = 0;
-	}
+	
 	
 }
 
