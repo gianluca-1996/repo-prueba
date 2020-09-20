@@ -79,7 +79,7 @@ public class Incaa {
 		
 	}
 
-	pubic void metodo()
+	public void metodo()
 	{
 	}
 	
