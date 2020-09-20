@@ -80,7 +80,7 @@ public class Incaa {
 	
 	public void nuevoMetodo()
 	{
-		
+		int a = 0;
 	}
 	
 }
