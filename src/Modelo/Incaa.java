@@ -74,7 +74,10 @@ public class Incaa {
 	}
 	
 
-	
+	public void metodoNuevo()
+	{
+		
+	}
 	
 	
 }
